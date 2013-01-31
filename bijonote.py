@@ -65,6 +65,9 @@ def create_note(date=date.today()):
         resources.append(resource)
         hash_list.append(hash)
     
+    if len(hash_list) < 1:
+        return
+
     note.resources = resources
     
     note.content = '<?xml version="1.0" encoding="UTF-8"?>'
