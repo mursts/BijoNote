@@ -31,5 +31,5 @@ user_store_uriに環境に合わせたuriを設定します。
 
 
 auth_tokenにはデベロップトークンを設定します。
-[デベロッパトークンの使用](http://dev.evernote.com/intl/jp/documentation/cloud/chapters/Authentication.php#devtoken)
+[デベロッパトークンの使用](https://www.evernote.com/api/DeveloperToken.action)
 
